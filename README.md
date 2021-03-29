@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krupalghorpade
-- 👀 I’m interested in learning engineering (software mostly😉)
-- 🌱 I’m currently learning Java, Spring, SwiftUI and DevOps tools
-- 💞️ I’m looking to collaborate on git libs that make life of an iOS and Java geeks easy.
+- 👀 I’m interested in learning engineering (software mostly 😉 )
+- 🌱 I’m currently learning Springboot, SwiftUI and DevOps tools
+- 💞️ I’m looking to collaborate on git libs that make life of full stack geeks easy.
 - 📫 How to reach me: email: krupalghorpade@outlook.com
 
 <!---
